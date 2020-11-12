@@ -1,2 +1,2 @@
-# dipl
+# Undergraduate Dissertation
 Diplomski rad
