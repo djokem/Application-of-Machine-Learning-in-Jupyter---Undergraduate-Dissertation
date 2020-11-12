@@ -1,2 +1,2 @@
 # Undergraduate Dissertation (available only in Serbian)
-Diplomski rad
+Application of Machine Learning algorithms using Jupyter Notebook.
